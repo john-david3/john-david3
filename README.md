@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-david3&theme=highcontrast&hide_progress=true&card_width=500&langs_count=6)
--->
+
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-
+-->
