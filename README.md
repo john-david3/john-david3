@@ -9,7 +9,3 @@
 | **Data & AI** | ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
 | **Testing & Monitoring** | ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=flat-square&logo=grafana&logoColor=orange&labelColor=F2F4F9) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat-square&logo=github-actions)|
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-
-# Experience
-- **F5 NGINX:** Contributed to a major release and several smaller releases of the NGINX Agent.
-- **College Lab Demonstrator:** Mentored 60+ students in Web Development.
